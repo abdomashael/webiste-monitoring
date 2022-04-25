@@ -1,14 +1,17 @@
 # website-monitoring
+
 ## Note
+
     the project built using typescript
-#### Postman Collection
-    [https://www.getpostman.com/collections/d8107ef49ee2582b7608](https://www.getpostman.com/collections/d8107ef49ee2582b7608)
+
+#### [Postman Collection](https://www.getpostman.com/collections/d8107ef49ee2582b7608)
+
 #### Build commands
 
 * `yarn run test:unit` ─ code unit test check
 * `npm run start` ─ build and run app as production
-* `npm run start:dev` ─  run app for development
-* `npm run build` ─  build app and transform all *.ts files to *.js
+* `npm run start:dev` ─ run app for development
+* `npm run build` ─ build app and transform all *.ts files to *.js
 
 ## Structure
 
