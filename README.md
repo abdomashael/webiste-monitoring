@@ -1,6 +1,8 @@
 # website-monitoring
 ## Note
     the project built using typescript
+#### Postman Collection
+    [https://www.getpostman.com/collections/d8107ef49ee2582b7608](https://www.getpostman.com/collections/d8107ef49ee2582b7608)
 #### Build commands
 
 * `yarn run test:unit` ─ code unit test check
